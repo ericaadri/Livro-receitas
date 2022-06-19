@@ -1,24 +1,31 @@
-<h1> Brigadeiro</h1>
+<h1>Strogonoff de Frango</h1>
 
   <h3>  Ingredientes</h3>
 
-- 1 caixa de leite condensado
+- 3 peitos de frango cortados em cubos
+- 1 dente de alho picado
+- sal e pimenta a gosto
+- 1 cebola picada
+- 2 colheres (sopa) de maionese
+- 1 colher de manteiga
+- 1/2 copo de ketchup 
+- 1/3 copo de mostarda
+- 1 copo de cogumelos
+- 1 copo de creme de leite
+- batata palha a gosto
 
-- 1 colher (sopa) de margarina sem sal
+<h3>Modo de Preparo</h3>
 
-- 7 colheres (sopa) de achocolatado
+1. Em uma panela, misture o frango, o alho, a maionese, o sal e a pimenta.
 
-- chocolate granulado
+2. Em uma frigideira grande, derreta a manteiga e doure a cebola.
 
-  <h3>Modo de preparo</h3>
+3. Junte o frango temperado até que esteja dourado.
 
-  1. Em uma panela funda, acrescente o leite condensado, a margarina e o achocolatado (ou 4 colheres de sopa de chocolate em pó).
-  2. Cozinhe em fogo médio e mexa até que o brigadeiro comece a desgrudar da panela.
-  3. Deixe esfriar e faça pequenas bolas com a mão passando a massa no chocolate granulado.
+4. Adicione os cogumelos, o ketchup e a mostarda.
 
+5. Incorpore o creme de leite e retire do fogo antes de ferver.
 
+6. Sirva com arroz branco e batata palha.
 
-
-
-
-
+   
